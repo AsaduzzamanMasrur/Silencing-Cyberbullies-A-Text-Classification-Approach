@@ -1,6 +1,6 @@
 # Silencing-Cyberbullies-A-Text-Classification-Approach
 
-# 🧠 Text Classification with Deep Learning and ML | NLP Project
+# 🧠 Text Classification with Deep Learning and ML
 
 ## Project Summary
 In the landscape of sentiment analysis, this project explores the effectiveness
