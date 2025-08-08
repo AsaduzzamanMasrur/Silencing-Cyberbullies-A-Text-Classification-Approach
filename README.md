@@ -64,3 +64,7 @@ Deployment – Flask app interface to input text and get predictions.
 
 Screenshots:
 1.
+
+
+Research Paper:
+
