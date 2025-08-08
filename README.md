@@ -63,7 +63,13 @@ Evaluation – Accuracy, precision, recall, F1-score, classification report.
 Deployment – Flask app interface to input text and get predictions.
 
 Screenshots:
-1.
+1.https://github.com/AsaduzzamanMasrur/Silencing-Cyberbullies-A-Text-Classification-Approach/blob/main/Silencing%20Cyberbullies1.png
+
+2.https://github.com/AsaduzzamanMasrur/Silencing-Cyberbullies-A-Text-Classification-Approach/blob/main/Silencing%20Cyberbullies2.png
+
+3.https://github.com/AsaduzzamanMasrur/Silencing-Cyberbullies-A-Text-Classification-Approach/blob/main/Silencing%20Cyberbullies3.png
+
+4.https://github.com/AsaduzzamanMasrur/Silencing-Cyberbullies-A-Text-Classification-Approach/blob/main/Silencing%20Cyberbullies10.png
 
 
 Research Paper: https://github.com/AsaduzzamanMasrur/Silencing-Cyberbullies-A-Text-Classification-Approach/blob/main/Asad_DLCW02.pdf
